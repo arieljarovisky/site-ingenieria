@@ -190,7 +190,7 @@ a:focus {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
-  background-image: url(../images/mantenimiento.png);
+  background-image: url(../images/mantenimiento\ 3.jpg);
   background-size: cover;
 }
 .hero_area_mantenimiento::before {
