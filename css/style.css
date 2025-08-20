@@ -243,7 +243,16 @@ a:focus {
 .sub_page .header_section .header_bottom {
   background-color: #003471;
 }
-
+.highlight-box {
+  background-color: #da7426; /* Color naranja corporativo */
+  color: #fff !important;
+  padding: 10px 20px;
+  border-radius: 6px;
+  font-weight: 500;
+  line-height: 1.6;
+  margin: 20px 0;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+}
 .header_section {
   border-top: 15px solid #da7426;
   position: fixed;
